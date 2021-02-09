@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Bakso",
+        "space": 20,
+        "price": 10000
+    },
+    {
+        "name": "Mie Ayam",
+        "space": 18,
+        "price": 8000
+    },
+    {
+        "name": "Soto Ayam",
+        "space": 17,
+        "price": 8500   
+    },
+    {
+        "name": "Es Campur",
+        "space": 17,
+        "price": 7000
+    },
+    {
+        "name": "Es Jeruk",
+        "space": 18,
+        "price": 3000
+    },
+    {
+        "name": "Es Teh",
+        "space": 20,
+        "price": 2500
+    }
+
+]
